@@ -1,5 +1,5 @@
 ### Hello!
-I am currently a Full-Stack Dev student at Driven Education and a Biomedical Engineering an Neuroscience student. I look forward to integrating these learnings towards software that will help us be happier, healthier human beings.
+I am currently a Full-Stack Dev student at Driven Education and a Biomedical Engineering and Neuroscience student at UFABC. I look forward to integrating these learnings towards software that will help us be happier, healthier human beings.
 
 ### Languages and tools:
 <span>
