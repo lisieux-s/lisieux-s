@@ -1,5 +1,6 @@
 ### Hello!
-Inspired by the need to create, I am currently a Full-Stack Dev student at Driven Education and a Biomedical Engineering and Neuroscience student at UFABC. I look forward to integrating these learnings towards software that will help us be happier, healthier human beings.
+Inspired by the need to create, I am currently a Full-Stack Dev student at Driven Education and a Biomedical Engineering and Neuroscience student at UFABC. 
+I look forward to integrating these learnings towards software that will help us be happier, healthier human beings.
 
 ### Languages and tools:
 <span>
@@ -8,8 +9,10 @@ Inspired by the need to create, I am currently a Full-Stack Dev student at Drive
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   
 </span>
+<br>
 <br>
 <span>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -17,7 +20,14 @@ Inspired by the need to create, I am currently a Full-Stack Dev student at Drive
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/> 
 <span>
 <br>
+  <br>
 <span>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/>
+</span>
+  <br>
+  <br>
+ <span>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress"/>
 </span>
