@@ -1,8 +1,8 @@
 ### Hello!
-* Inspired by the drive to create
+Inspired by the drive to create, I seek to write software that will help us be happier, healthier human beings.
+
 * Full-Stack Dev student at Driven Education
 * Biomedical Engineering and Neuroscience student at UFABC
-* I seek to write software that will help us be happier, healthier human beings
 
 ### Languages and tools:
 <span>
