@@ -1,5 +1,5 @@
-### Hello!
-Inspired by the drive to create, I seek to write software that will help us be happier, healthier human beings.
+
+Inspired by the drive to create
 
 * Full-Stack Dev
 * Biomedical Engineering at UFABC
