@@ -2,7 +2,7 @@
 Inspired by the drive to create, I seek to write software that will help us be happier, healthier human beings.
 
 * Full-Stack Dev
-* Neuroscience and Computer Science student at UFABC
+* Biomedical Engineering at UFABC
 
 ### Languages and tools:
 <span>
