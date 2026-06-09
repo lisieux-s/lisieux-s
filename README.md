@@ -1,6 +1,4 @@
 
-Inspired by the drive to create
-
 * Full-Stack Dev
 * Biomedical Engineering at UFABC
 
